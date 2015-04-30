@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文档规范</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://www.touch-spring.com//</link>
+    <atom:link href="http://www.touch-spring.com//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 01 May 2015 00:00:57 +0800</pubDate>
+    <lastBuildDate>Fri, 01 May 2015 00:00:57 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Document for TouchSpring.com</title>
+        <description>&lt;h1 id=&quot;touchspringgithubio&quot;&gt;TouchSpring.github.io&lt;/h1&gt;
+
+&lt;h1 id=&quot;section&quot;&gt;项目思维导图&lt;/h1&gt;
+
+&lt;h1 id=&quot;section-1&quot;&gt;需求文档&lt;/h1&gt;
+
+&lt;h1 id=&quot;section-2&quot;&gt;技术组成结构&lt;/h1&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;后台&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;开发环境&amp;amp;工具
+    &lt;ul&gt;
+      &lt;li&gt;xxx&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;语言基础
+    &lt;ul&gt;
+      &lt;li&gt;Java基础&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;开发框架
+    &lt;ul&gt;
+      &lt;li&gt;xxx&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;web&quot;&gt;WEB前端&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;开发环境&amp;amp;工具
+    &lt;ul&gt;
+      &lt;li&gt;xxx&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;语言基础
+    &lt;ul&gt;
+      &lt;li&gt;JavaScript/Html5/Css3&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;开发框架
+    &lt;ul&gt;
+      &lt;li&gt;JQury&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ios&quot;&gt;iOS&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;开发环境&amp;amp;工具
+    &lt;ul&gt;
+      &lt;li&gt;Xcode&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;语言基础
+    &lt;ul&gt;
+      &lt;li&gt;Objective-C&amp;amp;Swift基础&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;开发框架
+    &lt;ul&gt;
+      &lt;li&gt;Cocoa touch&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;android&quot;&gt;Android&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;开发环境&amp;amp;工具
+    &lt;ul&gt;
+      &lt;li&gt;Android Studio&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;语言基础
+    &lt;ul&gt;
+      &lt;li&gt;Java基础&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;开发框架
+    &lt;ul&gt;
+      &lt;li&gt;xxx&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 01 May 2015 07:39:31 +0800</pubDate>
+        <link>http://www.touch-spring.com//jekyll/update/2015/05/01/%E6%96%87%E6%A1%A3%E7%9B%AE%E5%BD%95.html</link>
+        <guid isPermaLink="true">http://www.touch-spring.com//jekyll/update/2015/05/01/%E6%96%87%E6%A1%A3%E7%9B%AE%E5%BD%95.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
