@@ -1,5 +1,9 @@
 # TouchSpring.github.io
 Document for TouchSpring.com
+
+# [GitBook地址](https://www.gitbook.com/book/touchspring/document/details)
+可以通过邮箱订阅
+
 # 项目思维导图
 # 需求文档
 # 技术组成结构
